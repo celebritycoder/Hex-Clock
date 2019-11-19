@@ -1,0 +1,25 @@
+body {
+    font-family: sans-serif;
+    margin-top: 200px;
+    text-align: center;
+    color: white;
+}
+
+#clock {
+    font-weight: 300;
+    font-size: 100px;
+
+}
+
+#hex-color {
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.clock-box  {
+    border: 5px solid white;
+    border-radius: 20px;
+    width: 1420px;
+    height: 320px;
+    margin-left: 250px;
+}
